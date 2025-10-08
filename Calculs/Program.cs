@@ -3,6 +3,7 @@
 namespace Calculs
 {
     /// <summary>
+    /// je rajoute du code xd
     /// Application Calculs : addition ou multiplication de 2 nombres
     /// </summary>
     class Program
